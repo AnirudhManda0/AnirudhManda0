@@ -18,19 +18,37 @@ Building innovative solutions with modern technologies
 
 ## 🛠️ Tech Stack
 
-const skills = {
-languages: ["Python", "JavaScript", "TypeScript", "Solidity"],
-frontend: ["React", "Next.js", "HTML/CSS"],
-backend: ["Node.js", "Express", "FastAPI", "Flask"],
-blockchain: ["Algorand", "Ethereum", "Truffle", "Ganache"],
-aiml: ["TensorFlow", "NLP", "RAG", "Transformers"],
-tools: ["Git", "Docker", "VS Code", "AWS"]
-};
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman2100&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman2100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceman2100&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceman2100&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -39,49 +57,78 @@ tools: ["Git", "Docker", "VS Code", "AWS"]
 
 ## 🚀 Featured Projects
 
+> *My main projects showcasing expertise in blockchain development, AI/ML applications, and full-stack engineering*
+
 <table>
 <tr>
-<td width="50px" align="center" valign="top">
-<img src="https://img.icons8.com/color/48/000000/blockchain-technology.png" width="30"/>
+<td width="30px" valign="top" align="center">
+  <img src="https://img.icons8.com/color/48/000000/blockchain-technology.png" width="25"/>
 </td>
+<td width="20px" style="border-left: 2px solid #30A3DC;"></td>
 <td>
 
 ### StreamPay - Algorand Payment Streaming
-**Tech Stack:** Algorand Smart Contracts · TEAL · Python · Algokit  
-Real-time cryptocurrency payment streaming platform built on Algorand blockchain with smart contract automation and Docker deployment.  
-🔗 [View Repository](https://github.com/iceman2100)
+
+**Tech Stack:**  
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat-square&logo=algorand&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TEAL](https://img.shields.io/badge/TEAL-00ADD8?style=flat-square&logo=algorand&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+Real-time cryptocurrency payment streaming platform built on Algorand blockchain with smart contract automation. Features continuous payment flows, automated escrow management, and Docker-based deployment.
+
+🔗 [View Repository](https://github.com/iceman2100/streampay-contracts)
 
 </td>
 </tr>
 
-<tr><td colspan="2"><hr style="border: 0; height: 1px; background: #333;"/></td></tr>
+<tr><td colspan="3" height="20px"></td></tr>
 
 <tr>
-<td width="50px" align="center" valign="top">
-<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="30"/>
+<td width="30px" valign="top" align="center">
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="25"/>
 </td>
+<td width="20px" style="border-left: 2px solid #30A3DC;"></td>
 <td>
 
 ### FinLit-AI - Financial Literacy Assistant
-**Tech Stack:** Python · React · Next.js · NLP · RAG · Uvicorn  
-AI-powered multilingual financial literacy application with voice interaction capabilities, real-time financial news integration, and intelligent Q&A system.  
-🔗 [View Repository](https://github.com/iceman2100)
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+AI-powered multilingual financial literacy application with voice interaction in Hindi and English, real-time news integration, and intelligent Q&A powered by RAG and sentence transformers.
+
+🔗 [View Repository](https://github.com/iceman2100/finlit-ai)
 
 </td>
 </tr>
 
-<tr><td colspan="2"><hr style="border: 0; height: 1px; background: #333;"/></td></tr>
+<tr><td colspan="3" height="20px"></td></tr>
 
 <tr>
-<td width="50px" align="center" valign="top">
-<img src="https://img.icons8.com/color/48/000000/ethereum.png" width="30"/>
+<td width="30px" valign="top" align="center">
+  <img src="https://img.icons8.com/color/48/000000/ethereum.png" width="25"/>
 </td>
+<td width="20px" style="border-left: 2px solid #30A3DC;"></td>
 <td>
 
 ### Smart Contracts Portfolio
-**Tech Stack:** Solidity · Truffle · Ganache · Web3.js  
-Collection of Ethereum smart contracts with comprehensive testing suite and deployment scripts for various DeFi applications.  
-🔗 [View Repository](https://github.com/iceman2100)
+
+**Tech Stack:**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=flat-square&logo=truffle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+Comprehensive collection of Ethereum smart contracts for DeFi applications with ERC-20/ERC-721 implementations, 95%+ test coverage, and automated deployment via Truffle and Ganache.
+
+🔗 [View Repository](https://github.com/iceman2100/smart-contracts)
 
 </td>
 </tr>
