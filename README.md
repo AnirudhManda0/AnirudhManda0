@@ -4,7 +4,7 @@
 
 # Hi, I'm Anirudh Manda 👋
 
-**Full-Stack Developer | Blockchain Enthusiast | AI/ML Explorer**
+**Full-Stack Developer | Blockchain Developer | Can code without AI**
 
 **I use Arch btw** 😏
 
@@ -26,7 +26,7 @@ Building innovative solutions with modern technologies
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -61,7 +61,7 @@ Building innovative solutions with modern technologies
 
 ---
 
-##  GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Building innovative solutions with modern technologies
 
 ---
 
-##  Main Projects
+## 🚀 Main Projects
 
 > *These are my primary projects showcasing blockchain development, AI/ML, and full-stack engineering*
 
@@ -130,6 +130,6 @@ Comprehensive collection of Ethereum smart contracts for DeFi applications with 
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=iceman2100&theme=tokyo-night&hide_border=true)
 
-###  *"Building the future, one commit at a time"*
+### 💡 *"Building the future, one commit at a time"*
 
 </div>
