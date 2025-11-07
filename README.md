@@ -1,16 +1,19 @@
-<div align="left">
+<div align="center">
 
-# **Hi, I'm Anirudh Manda** 👋
+# Hi, I'm Anirudh Manda 👋
 
-**Full-Stack Developer | Blockchain Developer | Can code without AI**
-
-**I use Arch btw** 😏
+**Full-Stack Developer | Blockchain Developer | Can code without AI**  
+**I use Arch btw 😏**
 
 Building innovative solutions with modern technologies
 
-<img src="./AnibroTried.gif" alt="Avatar" align="right" width="350" height="350" style="margin-top: -200px;"/>
+</div>
 
-<br/><br/>
+<div align="center">
+  <img src="./AnibroTried.gif" alt="Avatar" width="350" height="350" style="max-width: 100%; height: auto; border-radius: 10px; margin-top: 20px;"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
 
 <a href="https://www.linkedin.com/in/anirudh-manda-186532309/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,9 +25,8 @@ Building innovative solutions with modern technologies
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<br clear="right"/>
-
 </div>
+
 
 ---
 
