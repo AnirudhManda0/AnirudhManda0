@@ -8,7 +8,9 @@
 
 Building innovative solutions with modern technologies
 
-<img src="./AnibroTried.gif" alt="Avatar" align="right" width="350" height="350"/>
+<img src="./AnibroTried.gif" alt="Avatar" align="right" width="350" height="350" style="margin-top: -200px;"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/anirudh-manda-186532309/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
