@@ -56,17 +56,6 @@ Building innovative solutions with modern technologies
 
 ---
 
-##  GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceman2100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iceman2100&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ##  Main Projects
 
