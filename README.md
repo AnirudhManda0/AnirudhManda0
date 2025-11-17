@@ -1,23 +1,38 @@
 <div align="center">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<!-- LEFT SIDE (TEXT) -->
+<td style="vertical-align: top; width: 55%; padding-right: 40px; border: none;">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&width=650&cursor=%7C&glow=2&glowColor=00FF00&lines=Hi%2C+I'm+Anirudh+Manda+👋🏻;Full-Stack+Developer;Blockchain+Developer;Can+Code+Without+AI;I+use+Arch+btw+😏)](https://git.io/typing-svg)
-
-Building innovative solutions with modern technologies
-
-<img src="./AnibroTried.gif" alt="Avatar" width="350" height="350" style="max-width: 100%; height: auto; border-radius: 10px; margin-top: 20px;"/>
-
-<br/>
-
-<p align="center">
-  <a href="https://x.com/ManTheAnirudh">
-    <img src="https://img.icons8.com/3d-fluency/94/x.png" width="94" height="94"/>
+<div align="left">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=00FF00&center=false&vCenter=true&width=450&cursor=%7C&lines=Hi%2C+I'm+Anirudh+Manda+👋🏻;Full-Stack+Developer;Blockchain+Developer;Can+Code+Without+AI;I+use+Arch+btw+😏"/>
   </a>
-</p>
 
+  <p>Building innovative solutions with modern technologies</p>
 
+  <p>
+    <a href="https://x.com/ManTheAnirudh">
+      <img src="https://img.icons8.com/3d-fluency/94/x.png" width="55"/>
+    </a>
+    <a href="https://www.linkedin.com/in/anirudh-manda-186532309/">
+      <img src="https://img.icons8.com/bubbles/100/linkedin.png" width="55"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.icons8.com/clouds/100/apple-mail.png" width="55"/>
+    </a>
+  </p>
+</div>
 
+</td>
 
+<!-- RIGHT SIDE (IMAGE) -->
+<td style="text-align: right; vertical-align: top; width: 45%; border: none;">
+  <img src="./AnibroTried.gif" alt="Avatar" width="400" style="border-radius: 12px;"/>
+</td>
 
+</tr>
+</table>
 </div>
 
 
