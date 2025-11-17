@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/anirudh-manda-186532309/">
       <img src="https://img.icons8.com/bubbles/100/linkedin.png" width="55"/>
     </a>
-    <a href="144656180+iceman2100@users.noreply.github.com">
+    <a href="">
       <img src="https://img.icons8.com/clouds/100/apple-mail.png" width="55"/>
     </a>
   </p>
