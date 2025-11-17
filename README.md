@@ -8,7 +8,12 @@ Building innovative solutions with modern technologies
 
 <br/>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ManTheAnirudh)
+<p align="center">
+  <a href="https://x.com/ManTheAnirudh">
+    <img src="https://img.icons8.com/3d-fluency/94/x.png" width="94" height="94"/>
+  </a>
+</p>
+
 
 
 
