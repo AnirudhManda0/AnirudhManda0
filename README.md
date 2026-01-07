@@ -23,7 +23,14 @@
     <a href="https://www.linkedin.com/in/anirudh-manda-186532309/">
       <img src="https://img.icons8.com/bubbles/100/linkedin.png" width="55"/>
     </a>
-     <img width="50" height="50" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" alt="external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev"/>
+ <a href="mailto:anirudhmanda0@gmail.com">
+    <img 
+      width="50" 
+      height="50" 
+      src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" 
+      alt="Email Anirudh Manda"
+    />
+  </a>
   </p>
 </div>
 
