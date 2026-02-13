@@ -48,7 +48,7 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iceman2100&label=PROFILE%20TRAFFIC&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AnirudhManda0&label=PROFILE%20TRAFFIC&color=blueviolet&style=for-the-badge" />
 </div>
 
 ##  Tech Stack
@@ -104,7 +104,7 @@
 **Description:**  
 Real-time cryptocurrency payment streaming platform built on Algorand blockchain with smart contract automation, continuous payment flows, and Docker-based deployment.
 
-🔗 **[View Repository](https://github.com/iceman2100/AlgorandProjects)**
+🔗 **[View Repository](https://github.com/AnirudhManda0/AlgorandProjects)**
 
 ---
 
@@ -120,7 +120,7 @@ Real-time cryptocurrency payment streaming platform built on Algorand blockchain
 **Description:**  
 AI-powered multilingual financial literacy application with voice interaction in Hindi and English, real-time financial news integration, and RAG-based Q&A system.
 
-🔗 **[View Repository](https://github.com/iceman2100/finlit-ai)**
+🔗 **[View Repository](https://github.com/AnirudhManda0/finlit-ai)**
 
 ---
 
@@ -141,13 +141,13 @@ AI-powered multilingual financial literacy application with voice interaction in
 Traditional satellite / city‑station data is too coarse to spot a fire spark, toxic plume, or heat‑stroke hotspot on your block.
 Our solution plants low‑cost sensor nodes every 100–250 m, streams the data, and lets AI tell each user—or an entire enterprise—exactly what to do next,and came 1ˢᵗ runner_up in climate_X_Hackathon.
 
-🔗 **[View Repository](https://github.com/iceman2100/Climate_Planner_AI)**
+🔗 **[View Repository](https://github.com/AnirudhManda0/Climate_Planner_AI)**
 
 ---
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=iceman2100&theme=tokyo-night&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AnirudhManda0&theme=tokyo-night&hide_border=true)
 
 ### 💡 *"Building the future, one commit at a time"*
 ---
