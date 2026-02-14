@@ -6,8 +6,11 @@
 <td style="vertical-align: top; width: 55%; padding-right: 40px; border: none;">
 
 <div align="left">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=00FF00&center=false&vCenter=true&width=450&cursor=%7C&lines=Hi%2C+I'm+Anirudh+Manda+👋🏻;Full-Stack+Developer;Blockchain+Developer;Can+Code+Without+AI;I+use+Arch+btw+😏"/>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=700&color=00FF00&center=false&vCenter=true&width=450&cursor=%7C&lines=Hi%2C+I'm+Anirudh+Manda+👋🏻;Data+Analyst;Data+Driven+Problem+Solver;Can+Code+Without+AI;Turning+Data+Into+Decisions"/>
+</a>
+
+
     
 
   </a>
