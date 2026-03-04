@@ -41,7 +41,7 @@
 
 <!-- RIGHT SIDE (IMAGE) -->
 <td style="text-align: right; vertical-align: top; width: 45%; border: none;">
-  <img src="./jj.gif" alt="Avatar" width="400" style="border-radius: 12px;"/>
+  <img src="./ajj.gif" alt="Avatar" width="400" style="border-radius: 12px;"/>
 </td>
 
 </tr>
