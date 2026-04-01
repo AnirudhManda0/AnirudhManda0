@@ -30,10 +30,14 @@
     <img 
       width="50" 
       height="50" 
-      src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/external-hacker-internet-security-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png" 
+      src=https://img.icons8.com/?size=100&id=23127&format=png&color=000000
       alt="Email Anirudh Manda"
     />
   </a>
+<a href="https://x.com/ManTheAnirudh](https://portfolio-anirudhs-projects-da681634.vercel.app/">
+      <img src= "https://img.icons8.com/?size=100&id=103413&format=png&color=000000" width="55"/>
+    </a>
+     
   </p>
 </div>
 
