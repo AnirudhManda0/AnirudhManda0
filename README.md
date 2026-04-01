@@ -34,7 +34,7 @@
       alt="Email Anirudh Manda"
     />
   </a>
-<a href="https://x.com/ManTheAnirudh](https://portfolio-anirudhs-projects-da681634.vercel.app/">
+<a href="https://portfolio-anirudhs-projects-da681634.vercel.app/">
       <img src= "https://img.icons8.com/?size=100&id=103413&format=png&color=000000" width="55"/>
     </a>
      
