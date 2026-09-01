@@ -162,7 +162,6 @@ Our solution plants low‑cost sensor nodes every 100–250 m, streams the d
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=AnirudhManda0&theme=tokyo-night&hide_border=true)
 
 ### 💡 *"Building the future, one commit at a time"*
 ---
