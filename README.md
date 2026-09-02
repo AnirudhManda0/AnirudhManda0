@@ -163,7 +163,7 @@ Our solution plants low‑cost sensor nodes every 100–250 m, streams the d
 <div align="center">
 
 
-### 💡 *"Building the future, one commit at a time"*
+###   *"Building the future, one commit at a time"*
 ---
 
 </div>
