@@ -20,7 +20,7 @@
   <p>Building innovative solutions with modern technologies</p>
 
   <p>
-    <a href="https://x.com/ManTheAnirudh">
+    <a href="https://x.com/Anirudh_Manda">
       <img src="https://img.icons8.com/3d-fluency/94/x.png" width="55"/>
     </a>
     <a href="https://www.linkedin.com/in/anirudh-manda-186532309/">
