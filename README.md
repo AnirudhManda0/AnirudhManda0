@@ -26,7 +26,7 @@
     <a href="https://www.linkedin.com/in/anirudh-manda-186532309/">
       <img src="https://img.icons8.com/bubbles/100/linkedin.png" width="55"/>
     </a>
- <a href="mailto:anirudhmanda0@gmail.com">
+ <a href="mailto:anirudhmanda@proton.me">
     <img 
       width="50" 
       height="50" 
